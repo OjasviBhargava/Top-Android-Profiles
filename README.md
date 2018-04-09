@@ -54,7 +54,7 @@ Currently living in California, Reto has been writing software for over 20 years
 
 ## [Mark Murphy](https://github.com/commonsguy)
 
-Mark Murphy! is the founder of *CommonsWare* and the author of <b>The Busy Coder’s Guide to Android Development</b>. He is active in supporting the Android developer community, from answering questions on Stack Overflow to publishing sample code and reusable components as open source.
+Mark Murphy is the founder of *CommonsWare* and the author of <b>The Busy Coder’s Guide to Android Development</b>. He is active in supporting the Android developer community, from answering questions on Stack Overflow to publishing sample code and reusable components as open source.
 
 A three-time entrepreneur, his experience ranges from consulting on open source and collaborative development for the Fortune 500 to application development on a myriad of platforms. A polished speaker, Mr. Murphy has delivered conference presentations and training sessions on a wide array of topics internationally.
 
