@@ -4,7 +4,7 @@ A curated list of some of the best Android Developers
 <img src = "https://i.imgur.com/K5acMby.png">
 
 
-## Jon Skeet
+## [Jon Skeet](https://github.com/jskeet)
 
 *Senior Software Engineer at Google, London*
 
@@ -15,17 +15,25 @@ Website - http://csharpindepth.com/
 Comments from `Meta Stack Exchange`.
 
 1. *Jon Skeet's code doesn't follow a coding convention. It `is` the coding convention.*
+2. *Jon Skeet's addition operator doesn't commute; it teleports to where he needs it to be*
+3. *Jon Skeet doesn't have performance bottlenecks. He just makes the universe wait its turn*
+4. *Users don't mark Jon Skeet's answers as accepted. The universe accepts them out of a sense of truth and justice.*
+5. *Jon Skeet coded his last project entirely in Microsoft Paint, just for the challenge.*
+6. *Jon Skeet can recite π. Backwards.*
+7. *If Jon Skeet posts a duplicate question on StackOverflow, the original question will be closed as a duplicate.*
+8. *Jon Skeet does not resolve software problems. The problems resolve themselves the moment he walks into the office.*
 
+The list is really endless!
 
 
 ## [Jake Wharton](https://github.com/JakeWharton)
 When it comes to Android Open Source Projects my personal favorite is Jake. He currently works for Google and before that worked for Square. Many of you might not have used third party libraries, though some of his best libraries still used are :
 <ul>
-  <li>*Butterknife*</li>
-  <li>*Retrofit*</li>
-  <li>*okhttp*</li>
-  <li>*RxAndroid*</li>
-  <li>*android-ktx*</li>
+  <li> *Butterknife* </li>
+  <li> *Retrofit* </li>
+  <li> *okhttp* </li>
+  <li> *RxAndroid* </li>
+  <li> *android-ktx* </li>
 </ul>  
   
 
