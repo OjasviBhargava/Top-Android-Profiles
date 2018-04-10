@@ -4,12 +4,12 @@ A curated list of some of the best Android Developers
 <img src = "https://i.imgur.com/K5acMby.png">
 
 
-## Jon Skeet
+## [Jon Skeet]
 
 *Senior Software Engineer at Google, London*
 
 StackOverflow (MUST SEE) - https://stackoverflow.com/users/22656/jon-skeet
-GitHub - https://github.com/jskeet
+
 Website - http://csharpindepth.com/
 
 Comments from `Meta Stack Exchange`.
