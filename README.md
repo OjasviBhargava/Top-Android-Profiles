@@ -87,4 +87,22 @@ He is currently Technical Lead - Android @ Simform Solutions
 He is also the Founder/Manager, Google Developers Group, Ahmedabad
 
 
+## [Roman Nurik](https://github.com/romannurik)
+
+Roman is an outstanding developer and one of the most talented people in Android. Top notch quality work, he is a great designer and  has great knowledge of the all the latest technologies.
+
+Roman has been working for Google since 2008. His most famous work is Android Asset Studio (https://github.com/romannurik/AndroidAssetStudio) which you must give a try. A great tool to generate app icons for your next project!
+
+Website- 
+https://roman.nurik.net/
+
+
+## [Koushik Dutta](https://github.com/koush)
+
+He is the owner of ClockworkMod, a successful company Android app software company. He also co-founded Cyanogen Inc.
+
+ClockwokMod is a software company, owned by Koushik "Koush" Dutta, which develops various software products for Android smartphones and tablets. The company is primarily known for its custom recovery image, known as ClockworkMod Recovery, which is used in many custom made ROMs.
+
+Website- 
+https://koush.com/
 
