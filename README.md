@@ -106,3 +106,12 @@ ClockwokMod is a software company, owned by Koushik "Koush" Dutta, which develop
 Website- 
 https://koush.com/
 
+
+## [Jeff Atwood](https://github.com/coding-horror)
+
+```Jeff Atwood is an American software developer, author, blogger, and entrepreneur. He writes the computer programming blog Coding Horror.```
+
+He co-founded Stack Overflow and co-founded Stack Exchange
+
+Website- 
+https://blog.codinghorror.com
