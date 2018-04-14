@@ -115,3 +115,17 @@ He co-founded Stack Overflow and co-founded Stack Exchange
 
 Website- 
 https://blog.codinghorror.com
+
+## [Douglas Crockford](https://github.com/douglascrockford)
+
+Douglas Crockford is an American computer programmer and entrepreneur who is best known for his ongoing involvement in the development of the JavaScript language, for having popularized the data format JSON (JavaScript Object Notation), and for developing various JavaScript related tools such as JSLint and JSMin.
+
+He is currently a senior JavaScript architect at PayPal, and is also a writer and speaker on JavaScript, JSON, and related web technologies.
+
+Website-
+https://www.crockford.com/
+
+
+
+
+
